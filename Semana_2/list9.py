@@ -13,7 +13,7 @@ print(nombre.capitalize())
 
 #Primera letra de cada palabra 
 nombre_completo = "fernando jimenez"
-print(nombre_completo.title)
+print(nombre_completo.title())
 
 #reemplazar texto
 texto2 = "hola mundo c#"
