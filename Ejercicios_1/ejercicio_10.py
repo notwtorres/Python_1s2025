@@ -10,7 +10,7 @@ def add_string_text():
 def search_character(list_of_strings):
     character = input("Ingrese un carácter => ")
     for string in list_of_strings:
-        print(f"el carácter se repite {string.count(character)} en {string}")
+        print(f"hay {string.count(character)} en {string}")
 
         
 while True:
